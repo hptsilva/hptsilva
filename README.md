@@ -11,7 +11,7 @@ Entusiasta de tecnologia e eterno aprendiz. Sempre em busca do próximo desafio.
 # Principais Projetos 💻:
 * [Bot do Discord](https://github.com/isac-bot/ISAC) - Crie eventos personalizados no servidor, modere membros e notifique lives da Twitch.
 * [Compilador](https://github.com/hptsilva/Compilador-para-a-linguagem-MGOL) - Um compilador desenvolvido em Python para a linguagem fictícia MGOL.
-* [Aplicação Web](https://github.com/hptsilva/Projeto-Laravel) - Aplicação Web desenvolvida usando o framework Laravel.
+* [Aplicação Web](https://github.com/hptsilva/Black-Wolves) - Aplicação Web desenvolvida usando o framework Laravel.
 # Contatos:
 * LinkedIn: https://www.linkedin.com/in/humberto-pereira-teixeira-silva-245155125/
 * E-mail: humbertot@hotmail.com.br
