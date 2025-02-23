@@ -9,7 +9,7 @@ Entusiasta de tecnologia e eterno aprendiz. Sempre em busca do próximo desafio.
 * Desenvolvimento Web: HTML, CSS, SASS e JQuery, API Rest;
 * [Certificados](https://github.com/hptsilva/Certificados)
 # Principais Projetos 💻:
-* [Bot do Discord](https://github.com/isac-bot/ISAC) - Crie eventos personalizados no servidor de notificação automática, modere membros e notifique lives da Twitch.
+* [Bot do Discord](https://github.com/isac-bot/ISAC) - Crie eventos personalizados no servidor, modere membros e notifique lives da Twitch.
 * [Compilador](https://github.com/hptsilva/Compilador-para-a-linguagem-MGOL) - Um compilador desenvolvido em Python para a linguagem fictícia MGOL.
 * [Aplicação Web](https://github.com/hptsilva/Projeto-Laravel) - Aplicação Web desenvolvida usando o framework Laravel.
 # Contatos:
