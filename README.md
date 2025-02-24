@@ -6,7 +6,7 @@ Entusiasta de tecnologia e eterno aprendiz. Sempre em busca do próximo desafio.
 * Linaguem de programação: Python, PHP e JavaScript.
 * Frameworks: Laravel e Bootstrap.
 * Banco de Dados: MySQL e PostgreSQL.
-* Desenvolvimento Web: HTML, CSS, SASS e JQuery, API Rest.
+* Desenvolvimento Web: HTML, CSS, SASS, JQuery e API Rest.
 * [Certificados](https://github.com/hptsilva/Certificados)
 # Principais Projetos 💻
 * [Bot do Discord](https://github.com/isac-bot/ISAC) - Crie eventos personalizados no servidor, modere membros e notifique lives da Twitch.
