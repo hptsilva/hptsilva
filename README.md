@@ -3,7 +3,7 @@ Entusiasta de tecnologia e eterno aprendiz. Sempre em busca do próximo desafio.
 # Sobre mim 🗣️
 * Bacharel em Engenharia de Computação pela Universidade Federal de Goiás (UFG).
 * Estudante de pós-gradução em Engenharia de Software pela Universidade Paulista (UNIP).
-* Linaguem de programação: Python, PHP e JavaScript.
+* Linguagem de programação: Python, PHP e JavaScript.
 * Frameworks: Laravel e Bootstrap.
 * Banco de Dados: MySQL e PostgreSQL.
 * Desenvolvimento Web: HTML, CSS, SASS, JQuery e API Rest.
