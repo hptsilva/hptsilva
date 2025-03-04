@@ -4,7 +4,7 @@ Entusiasta de tecnologia e eterno aprendiz. Sempre em busca do próximo desafio.
 * Bacharel em Engenharia de Computação pela Universidade Federal de Goiás (UFG).
 * Estudante de pós-gradução em Engenharia de Software pela Universidade Paulista (UNIP).
 * [Certificados](https://github.com/hptsilva/Certificados)
-## 🛠️ Linguagens e Ferramentas
+## 🛠️ Conhecimento em:
 
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
