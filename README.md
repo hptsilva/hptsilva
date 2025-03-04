@@ -33,7 +33,7 @@ Entusiasta de tecnologia e eterno aprendiz. Sempre em busca do próximo desafio.
 </div>
 
 ## 💻 Principais Projetos:
-* [Bot do Discord](https://github.com/isac-bot/ISAC) - Crie eventos personalizados no servidor, modere membros e notifique lives da Twitch.
+* [ISAC](https://github.com/isac-bot/ISAC) - Bot para o Discord que permite criar eventos personalizados no servidor, moderar membros e notificar lives da Twitch.
 * [Compilador](https://github.com/hptsilva/Compilador-para-a-linguagem-MGOL) - Compilador desenvolvido em Python para a linguagem fictícia MGOL.
 * [Black Wolves](https://github.com/hptsilva/Black-Wolves) - Site usando a framework Laravel.
 * [Controle de Estoque](https://github.com/hptsilva/Controle-de-Estoque) - Aplicação Web de controle de estoque.
