@@ -4,7 +4,7 @@ Entusiasta de tecnologia e eterno aprendiz. Sempre em busca do próximo desafio.
 * Bacharel em Engenharia de Computação pela Universidade Federal de Goiás (UFG).
 * Estudante de pós-gradução em Engenharia de Software pela Universidade Paulista (UNIP).
 * [Certificados](https://github.com/hptsilva/Certificados)
-## 🛠️ Conhecimento em:
+# 🛠️ Conhecimento em:
 
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -17,11 +17,11 @@ Entusiasta de tecnologia e eterno aprendiz. Sempre em busca do próximo desafio.
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
 
-# Principais Projetos 💻
+# 💻 Principais Projetos:
 * [Bot do Discord](https://github.com/isac-bot/ISAC) - Crie eventos personalizados no servidor, modere membros e notifique lives da Twitch.
 * [Compilador](https://github.com/hptsilva/Compilador-para-a-linguagem-MGOL) - Compilador desenvolvido em Python para a linguagem fictícia MGOL.
 * [Aplicação Laravel](https://github.com/hptsilva/Black-Wolves) - Aplicação Web usando o framework Laravel.
-# Contatos:
+# 🔔 Contatos:
 * LinkedIn: https://www.linkedin.com/in/humberto-pereira-teixeira-silva-245155125/
 * E-mail: humbertot@hotmail.com.br
 
