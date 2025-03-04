@@ -1,8 +1,9 @@
 ## Olá, meu nome é Humberto Silva 👋
 Entusiasta de tecnologia e eterno aprendiz. Sempre em busca do próximo desafio.
-# Sobre mim 🗣️
+# 👨🏻‍🎓 Formação:
 * Bacharel em Engenharia de Computação pela Universidade Federal de Goiás (UFG).
 * Estudante de pós-gradução em Engenharia de Software pela Universidade Paulista (UNIP).
+* 
 * [Certificados](https://github.com/hptsilva/Certificados)
  
 ## #️⃣ Linguagens de Programação:
