@@ -37,7 +37,7 @@ Entusiasta de tecnologia e eterno aprendiz. Sempre em busca do próximo desafio.
 * [Compilador](https://github.com/hptsilva/Compilador-para-a-linguagem-MGOL) - Compilador desenvolvido em Python para a linguagem fictícia MGOL.
 * [Black Wolves](https://github.com/hptsilva/Black-Wolves) - Site usando a framework Laravel.
 * [Controle de Estoque](https://github.com/hptsilva/Controle-de-Estoque) - Aplicação Web de controle de estoque.
-# 🔔 Contatos:
+# 📧 Contatos:
 * LinkedIn: https://www.linkedin.com/in/humberto-pereira-teixeira-silva-245155125/
 * E-mail: humbertot@hotmail.com.br
 
