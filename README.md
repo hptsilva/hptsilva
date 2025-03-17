@@ -36,7 +36,7 @@ Entusiasta de tecnologia e eterno aprendiz. Sempre em busca do próximo desafio.
 ## 💻 Principais Projetos:
 * [ISAC](https://github.com/isac-bot/ISAC) - Bot do Discord para criação de eventos personalizados no servidor, moderaração de membros e notificação de lives da Twitch.
 * [Black Wolves](https://github.com/hptsilva/Black-Wolves) - Site usando a framework Laravel.
-* [Controle de Estoque](https://github.com/hptsilva/Controle-de-Estoque) - Aplicação Web de controle de estoque.
+* [API Controle de Estoque](https://github.com/hptsilva/API-Controle-de-Estoque) - API para Controle de Estoque.
 * [Compilador](https://github.com/hptsilva/Compilador-para-a-linguagem-MGOL) - Compilador desenvolvido em Python para a linguagem fictícia MGOL.
 # 📧 Contatos:
 * LinkedIn: https://www.linkedin.com/in/humberto-pereira-teixeira-silva-245155125/
