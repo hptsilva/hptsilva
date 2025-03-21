@@ -39,6 +39,6 @@ Entusiasta de tecnologia e eterno aprendiz. Sempre em busca do próximo desafio.
 * [API Controle de Estoque](https://github.com/hptsilva/API-Controle-de-Estoque) - API para Controle de Estoque.
 * [Compilador](https://github.com/hptsilva/Compilador-para-a-linguagem-MGOL) - Compilador desenvolvido em Python para a linguagem fictícia MGOL.
 # 📧 Contatos:
-* LinkedIn: [https://www.linkedin.com/in/humberto-pereira-teixeira-silva-245155125/](https://www.linkedin.com/in/hptsilva/)
+* LinkedIn: [https://www.linkedin.com/in/hptsilva/](https://www.linkedin.com/in/hptsilva/)
 * E-mail: humbertot@hotmail.com.br
 
