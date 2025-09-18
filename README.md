@@ -34,6 +34,7 @@ Entusiasta de tecnologia e eterno aprendiz. Sempre em busca do próximo desafio.
 </div>
 
 ## 💻 Principais Projetos:
+* [AuthToken](https://github.com/hptsilva/AuthToken) - AuthToken é um projeto PHP que implementa um sistema de autenticação baseado em tokens.
 * [PasswordGen](https://github.com/hptsilva/PasswordGen) - PasswordGen é uma aplicação de linha de comando (CLI) para gerar, armazenar, listar, atualizar e excluir senhas em um banco de dados MySQL.
 * [ISAC](https://github.com/isac-bot/ISAC) - Bot do Discord para criação de eventos personalizados no servidor, moderaração de membros e notificação de lives da Twitch.
 * [Black Wolves](https://github.com/hptsilva/Black-Wolves) - Site usando a framework Laravel.
