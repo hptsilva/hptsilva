@@ -3,7 +3,6 @@ Entusiasta de tecnologia e eterno aprendiz. Sempre em busca do próximo desafio.
 ## 👨🏻‍🎓 Formação:
 * Bacharel em Engenharia de Computação pela Universidade Federal de Goiás (UFG).
 * Estudante de pós-gradução em Engenharia de Software pela Universidade Paulista (UNIP).
-* [Certificados](https://github.com/hptsilva/Certificados)
  
 ## #️⃣ Linguagens de Programação:
 <div align="center">
@@ -41,7 +40,6 @@ Entusiasta de tecnologia e eterno aprendiz. Sempre em busca do próximo desafio.
 * [PasswordGen](https://github.com/hptsilva/PasswordGen) - PasswordGen é uma aplicação de linha de comando (CLI) para gerar, armazenar, listar, atualizar e excluir senhas em um banco de dados SQLite.
 * [ISAC](https://github.com/isac-bot/ISAC) - Bot do Discord para criação de eventos personalizados no servidor, moderaração de membros e notificação de lives da Twitch.
 * [API Controle de Estoque](https://github.com/hptsilva/API-Controle-de-Estoque) - API para Controle de Estoque.
-* [Compilador](https://github.com/hptsilva/Compilador-para-a-linguagem-MGOL) - Compilador desenvolvido em Python para a linguagem fictícia MGOL.
 # 📧 Contatos:
 * LinkedIn: [https://www.linkedin.com/in/hptsilva/](https://www.linkedin.com/in/hptsilva/)
 * E-mail: humbertot@hotmail.com.br
