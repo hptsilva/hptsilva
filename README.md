@@ -40,7 +40,6 @@ Sou um entusiasta de tecnologia e eterno aprendiz, sempre em busca do próximo d
 
 ## 💻 Principais Projetos:
 * **[SENTINEL](https://sentinel.hptsilva.dev/)**: Dashboard completo para gerenciamento do meu bot do Discord. O bot está hospedado e rodando ativamente na minha própria infraestrutura.
-* **[ISAC](https://github.com/isac-bot/ISAC)**: Bot do Discord focado na criação de eventos personalizados no servidor, moderação de membros e integração com notificações de lives da Twitch.
 * **[AuthToken](https://github.com/hptsilva/AuthToken)**: Sistema em PHP que implementa uma arquitetura de autenticação baseada em tokens.
 * **[PasswordGen](https://github.com/hptsilva/PasswordGen)**: Aplicação CLI (Command Line Interface) para gerar, armazenar, listar, atualizar e excluir senhas com segurança em um banco de dados SQLite.
 * **[API Controle de Estoque](https://github.com/hptsilva/API-Controle-de-Estoque)**: API RESTful voltada para o gerenciamento e controle de estoque.
