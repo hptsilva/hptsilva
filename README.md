@@ -1,12 +1,13 @@
-# Olá, eu sou o Humberto Silva 👋
+# Hello, I'm Humberto Silva 👋
 
-**Engenheiro de Computação | Pós-Graduando em Engenharia de Software**
+**Computer Engineer | Postgraduate Student in Software Engineering**
 
-Sou um entusiasta de tecnologia e eterno aprendiz, sempre em busca do próximo desafio e focado em construir software de alta qualidade. Tenho grande interesse na área de desenvolvimento de software e práticas de DevOps.
+I am a technology enthusiast and a lifelong learner, always looking for the next challenge and focused on building high-quality software.
+I have a strong interest in software development and DevOps practices.
 
-## 🛠️ Tecnologias e Ferramentas:
+## 🛠️ Technologies and Tools:
 
-**Linguagens de Programação:**
+**Programming Languages:**
 <div align="center">
   <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
@@ -16,7 +17,7 @@ Sou um entusiasta de tecnologia e eterno aprendiz, sempre em busca do próximo d
 
 <hr>
 
-**Frameworks & Desenvolvimento Web:**
+**Frameworks & Web Development:**
 <div align="center">
   <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a>
   <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
@@ -28,7 +29,7 @@ Sou um entusiasta de tecnologia e eterno aprendiz, sempre em busca do próximo d
 
 <hr>
 
-**Bancos de Dados:**
+**Databases:**
 <div align="center">
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
@@ -38,12 +39,12 @@ Sou um entusiasta de tecnologia e eterno aprendiz, sempre em busca do próximo d
 
 <hr>
 
-## 💻 Principais Projetos:
-* **[SENTINEL](https://sentinel.hptsilva.dev/)**: Dashboard completo para gerenciamento do meu bot do Discord. O bot está hospedado e rodando ativamente na minha própria infraestrutura.
-* **[AuthToken](https://github.com/hptsilva/AuthToken)**: Sistema em PHP que implementa uma arquitetura de autenticação baseada em tokens.
-* **[PasswordGen](https://github.com/hptsilva/PasswordGen)**: Aplicação CLI (Command Line Interface) para gerar, armazenar, listar, atualizar e excluir senhas com segurança em um banco de dados SQLite.
-* **[API Controle de Estoque](https://github.com/hptsilva/API-Controle-de-Estoque)**: API RESTful voltada para o gerenciamento e controle de estoque.
+## 💻 Main Projects:
+* **[SENTINEL](https://sentinel.hptsilva.dev/)**: Complete dashboard for managing my Discord bot. The bot is hosted and actively running on my own infrastructure.
+* **[AuthToken](https://github.com/hptsilva/AuthToken)**: PHP system that implements a token-based authentication architecture.
+* **[PasswordGen](https://github.com/hptsilva/PasswordGen)**: CLI (Command Line Interface) application to securely generate, store, list, update, and delete passwords in a SQLite database.
+* **[API Controle de Estoque](https://github.com/hptsilva/API-Controle-de-Estoque)**: RESTful API focused on inventory management and control.
 
-## 📧 Contatos:
+## 📧 Contacts:
 * **LinkedIn**: [hptsilva](https://www.linkedin.com/in/hptsilva/)
 * **E-mail**: humbertot@hotmail.com.br
